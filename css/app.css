@@ -22,3 +22,18 @@ a {
  {
 	background-color: #000;
 }
+
+img.pitcher {
+	max-width: 600px;
+	padding-bottom: 20px;
+	padding-top: 40px;
+}
+
+h3 {
+	text-align: center;
+	color: #FFF;
+	border-top: 1px black solid;
+	border-bottom: 1px black solid;
+	margin-bottom: 20px;
+	font-weight: 300;
+}
