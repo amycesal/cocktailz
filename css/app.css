@@ -21,6 +21,10 @@ a:hover {
 	color: #FFF;
 border-bottom: 1px dotted white;}
 
+.top-bar {
+	margin-bottom: 40px;
+}
+
 .top-bar, 
 .top-bar ul
  {
@@ -45,6 +49,10 @@ img.pitcher {
 	max-width: 600px;
 	padding-bottom: 100px;
 	padding-top: 0px;
+}
+
+h1 { margin-bottom: 0;
+
 }
 
 h3 {
